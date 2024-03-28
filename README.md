@@ -1,4 +1,4 @@
-# ¡Hola! Soy Kevin Lugo Díaz
+# Kevin Lugo Dev
 
 ¡Bienvenido/a a mi perfil! Soy desarrollador de software y me encanta crear soluciones innovadoras para resolver problemas. Aquí encontrarás un poco más sobre mí y cómo puedes contactarme.
 
